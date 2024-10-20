@@ -1,0 +1,24 @@
+.accordion-header .accordion-button{
+    font-size: 1.25rem;
+  }
+  
+  .btn-primary {
+    background-color:var(--bs-dark);
+    border-color:darkgray;
+  }
+  
+  #hobbylist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color:#00efb2
+  }
+  
+  header h1 {
+    color: #afbdcc;
+  }
+  
+  main h2 {
+    color: #afbdcc;
+  }
+  
